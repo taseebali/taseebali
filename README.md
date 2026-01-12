@@ -2,7 +2,7 @@
 
 # 👋 Hi, I’m Taseeb Ali
 
-🚀 **Developer** | 🤖 AI/ML • ☁️ Cloud • 💻 Software Development  
+🚀 **Aspiring Developer** | 🤖 AI/ML • ☁️ Cloud • 💻 Software Development  
 Passionate about building intelligent systems, exploring scalable cloud solutions, and solving real-world problems through code.  
 Always excited to collaborate and build something meaningful.
 
